@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     # new apps
     'django.contrib.sites',
     'django.contrib.flatpages',
+    # new app for admins
+    'fpages'
 ]
 
 SITE_ID = 1
